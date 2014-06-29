@@ -14,7 +14,7 @@ Usages
 ======
 
 ```js
-log = require("co-logger");
+log = require("mm-logger");
 log.debug("My log message");
 log.error("My log message with error", err);
 ```
