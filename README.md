@@ -4,20 +4,20 @@ mm-logger
 Winston based logger for [MM](https://github.com/martinmicunda/) projects.
 
 Installation
-============
+=========
 
-    ```bash
-    $ npm install mm-logger --save
-    ```
+```bash
+$ npm install mm-logger --save
+```
 
 Usages
 ======
 
-    ```javascript
-    log = require("co-logger");
-    log.debug("My log message");
-    log.error("My log message with error", err);
-    ```
+```js
+log = require("co-logger");
+log.debug("My log message");
+log.error("My log message with error", err);
+```
     
 License
 ======
