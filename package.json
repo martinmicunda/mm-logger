@@ -1,0 +1,37 @@
+{
+  "name": "mm-logger",
+  "description": "Winston based logger for MM projects",
+  "version": "0.0.1",
+  "private": false,
+  "author": {
+    "name": "Martin Micunda",
+    "email": "martinmicunda@hotmail.com",
+    "url": "http://martinmicunda.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinmicunda/mm-logger"
+  },
+  "bugs": {
+    "url": "https://github.com/martinmicunda/mm-logger/issues"
+  },
+  "keywords": [
+    "mm",
+    "logger",
+    "winston"
+  ],
+  "dependencies": {
+    "winston": "~0.7.3"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10",
+    "npm": ">=1.4.x"
+  }
+}
