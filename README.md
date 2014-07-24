@@ -1,4 +1,4 @@
-mm-logger
+mm-node-logger
 =========
 
 Winston based logger for [MM](https://github.com/martinmicunda/) projects.

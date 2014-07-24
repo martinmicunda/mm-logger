@@ -1,7 +1,7 @@
 {
-  "name": "mm-logger",
+  "name": "mm-node-logger",
   "description": "Winston based logger for MM projects",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "private": false,
   "author": {
     "name": "Martin Micunda",
@@ -11,13 +11,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/martinmicunda/mm-logger"
+    "url": "https://github.com/martinmicunda/mm-node-logger"
   },
   "bugs": {
-    "url": "https://github.com/martinmicunda/mm-logger/issues"
+    "url": "https://github.com/martinmicunda/mm-node-logger/issues"
   },
   "keywords": [
     "mm",
+    "node",
     "logger",
     "winston"
   ],
