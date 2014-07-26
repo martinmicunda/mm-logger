@@ -1,3 +1,5 @@
+[![NPM version](https://badge.fury.io/js/mm-node-logger.svg)](http://badge.fury.io/js/mm-node-logger)
+
 mm-node-logger
 =========
 
