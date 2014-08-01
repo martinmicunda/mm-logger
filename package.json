@@ -22,6 +22,11 @@
     "logger",
     "winston"
   ],
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "winston": "~0.7.3"
   },
