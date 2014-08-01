@@ -5,15 +5,13 @@ mm-node-logger
 
 Winston based logger for [MM](https://github.com/martinmicunda/) projects.
 
-Installation
-=========
+## Installation
 
 ```bash
 $ npm install mm-node-logger --save
 ```
 
-Usages
-======
+## Usages
 
 ```js
 log = require("mm-node-logger")(module);
@@ -21,8 +19,7 @@ log.debug("My log message");
 log.error("My log message with error", err);
 ```
     
-License
-======
+## License
 
 The MIT License (MIT)
 
