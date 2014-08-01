@@ -9,14 +9,14 @@ Installation
 =========
 
 ```bash
-$ npm install mm-logger --save
+$ npm install mm-node-logger --save
 ```
 
 Usages
 ======
 
 ```js
-log = require("mm-logger")(module);
+log = require("mm-node-logger")(module);
 log.debug("My log message");
 log.error("My log message with error", err);
 ```
