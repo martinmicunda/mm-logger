@@ -3,7 +3,7 @@
 mm-node-logger
 =========
 
-Winston based logger for [MM](https://github.com/martinmicunda/) projects.
+A node logging module base on [winston](https://github.com/flatiron/winston). 
 
 ## Installation
 
